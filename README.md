@@ -4,7 +4,7 @@
 
 1. **Project2024_v3.pdf** is the detailed requirement document.
 
-2. **DAA_Project_Deliverable_1.pdf** contains deliverable 1 that contains questions from 1(a) to 1(h) from  **Project2024_v3.pdf**.\n
+2. **DAA_Project_Deliverable_1.pdf** contains deliverable 1 that contains questions from 1(a) to 1(h) from  **Project2024_v3.pdf**.
    2.1. The questions are related to only handwritten dry runs of the algorithms or psuedocode.
 
 3. **Closest pair of points x Integer Multiplication** folder contains **Q2, Q3, Q4, Q5** from the **Project2024_v3.pdf** document.
